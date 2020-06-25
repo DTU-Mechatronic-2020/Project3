@@ -218,7 +218,7 @@ void loop() {
 
     if (d1 == "3000") { //If the message is "3000", the OLED should display dispensing
       dispense_time = millis();
-    //  dispensing();
+      dispensing();
 
     }
     else { //If not, the values should considered to be the current values of the weights
