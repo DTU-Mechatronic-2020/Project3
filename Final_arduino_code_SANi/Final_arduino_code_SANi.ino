@@ -1,3 +1,5 @@
+// This code has been made for the course Mechatronics engineering design F20.
+// The code has been made by Group 8 for the final project of the course, Project 3 - Corona (Final project)
 #include <Arduino.h>
 #include <Wire.h>
 #include "HX711.h"

@@ -152,7 +152,6 @@ void callback(char* byteArraytopic, byte* byteArrayPayload, unsigned int length)
     String Machinenr = payload;//
     Serial.print(payload);
 
-    // In the ideal setup there would have been more than one machine, and this value Machinenr would have decided the slave addresses
 
   }
 }
